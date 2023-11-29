@@ -1,3 +1,3 @@
-# google
+cd# google
 this is my first repository <br>
-Author-priyanshu
+Author-(op) priyanshu
